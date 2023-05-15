@@ -1,0 +1,11 @@
+torch>=2.0.0
+accelerate
+datasets
+lion-pytorch
+palm-rlhf-pytorch
+transformers
+torch-stable-adamw
+datasets
+tokenizers
+hidet
+wandb
