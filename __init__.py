@@ -1,2 +1,1 @@
-from .interference import *
-from .interface import *
+from interference import TextGenerator
